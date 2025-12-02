@@ -25,3 +25,9 @@ Deliveries are made at 12:00 PM and 03:00 PM, and orders will be delivered at ga
 ### Authentication
 
 Customers will be able to login with their university email and a password.
+
+
+### Links
+- https://www.youtube.com/watch?v=B19t9QGA-Vg
+
+- https://www.youtube.com/watch?v=0rKYulTq2GU
